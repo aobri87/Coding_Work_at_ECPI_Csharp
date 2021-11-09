@@ -1,0 +1,10 @@
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.csprojAssemblyReference.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.CustomName.resources
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.Properties.Resources.resources
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.csproj.GenerateResource.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.exe.config
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.exe
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.pdb
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.exe
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.pdb
