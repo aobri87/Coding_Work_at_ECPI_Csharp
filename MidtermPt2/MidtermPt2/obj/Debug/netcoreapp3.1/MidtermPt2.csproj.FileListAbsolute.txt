@@ -1,0 +1,13 @@
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.exe
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.deps.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.runtimeconfig.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.runtimeconfig.dev.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.dll
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\bin\Debug\netcoreapp3.1\MidtermPt2.pdb
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.csprojAssemblyReference.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.AssemblyInfoInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.AssemblyInfo.cs
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.csproj.CoreCompileInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.dll
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.pdb
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 4\MidtermPt2\MidtermPt2\obj\Debug\netcoreapp3.1\MidtermPt2.genruntimeconfig.cache
