@@ -1,0 +1,10 @@
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.csproj.AssemblyReference.cache
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.Grade.resources
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.Properties.Resources.resources
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.csproj.GenerateResource.cache
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\duck3\OneDrive - ECPI University\1CIS317 Advanced Object-oriented Programming Using C#\Unit 3\3.4 Professional Assessment\GradeBook\obj\Debug\GradeBook.pdb
