@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "U5GE_GasMilage/1.0.0": {
+        "runtime": {
+          "U5GE_GasMilage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U5GE_GasMilage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

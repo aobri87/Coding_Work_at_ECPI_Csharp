@@ -1,0 +1,13 @@
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.csprojAssemblyReference.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.AssemblyInfoInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.AssemblyInfo.cs
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.csproj.CoreCompileInputs.cache
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.exe
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.deps.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.runtimeconfig.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.runtimeconfig.dev.json
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.dll
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\bin\Debug\netcoreapp3.1\U5GE_GasMilage.pdb
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.dll
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.pdb
+C:\Users\duck3\OneDrive - ECPI University\CIS214 Object-oriented Programming Using C#\Unit 5\U5GE_GasMilage\U5GE_GasMilage\obj\Debug\netcoreapp3.1\U5GE_GasMilage.genruntimeconfig.cache
